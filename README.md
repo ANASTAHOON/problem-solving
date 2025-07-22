@@ -1,37 +1,18 @@
-Dart Mathematical Operations
-This directory contains Dart programs that perform basic mathematical operations on two-digit numbers.
+This repository contains my problem solving practice using the Dart programming language.
+The main goal is to improve my logical thinking and clean coding skills by solving different types of coding problems in a simple and structured way.
 
-📁 Files Description
-1. Digit_Summation.dart
-A simple Dart program that:
+### What’s Included
+Solutions to various problem solving challenges using Dart.
+Focus on:
+Loops (for, while)
+Conditional statements (if/else)
+Functions
+Collections (List, Map, Set)
+Problem breakdown and clean code structure
+Well-commented code for easy understanding.
 
-Takes two numbers (each of two digits).
-
-Extracts the last digit from each number.
-
-Calculates and prints the sum of the two last digits.
-
-Example:
-
-Input: 12 and 13 → Last digits are 2 and 3 → Sum = 5.
-
-2. Arithmetic_Operators.dart
-A Dart program that:
-
-Takes three numbers and calculates the value of a fourth number using Arithmetic Operators.
-
-You must use +, -, *, and / operators without repeating any operator.
-
-Combines pairs of numbers with one operator at a time to reach a final value.
-
-Focus: Practice using different arithmetic operators in one program.
-
-3. Sort_Three_Numbers.dart
-A Dart program that:
-
-Takes three numbers as input.
-
-Sorts and prints them in ascending order (smallest to largest).
-
-A simple practice of conditional statements and sorting logic.
+### Why Dart?
+Dart is a simple and powerful language to learn programming concepts.
+Great for practicing problem solving in a fast and clean way.
+Helpful for anyone planning to work with Flutter Development.
 
